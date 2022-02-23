@@ -17,6 +17,6 @@ num = 2
 while True:
      turtle.forward(5)
      if prime(num) == 1:
-          turtle.right(num)
+          turtle.right(num%360)
           print(num)
      num += 1
