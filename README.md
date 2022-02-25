@@ -9,6 +9,8 @@ turtleという面白そうな描画ライブラリを見つけたから。
 
 その数nが素数だった場合n % 360 度回転する。
 
+(90度も面白かったから値を変えてみてね)
+
 ### Sample
 ![image](https://user-images.githubusercontent.com/82374688/155285621-8ae4302d-54ac-4065-a683-aa2cadcbba31.png)
 
